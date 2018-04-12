@@ -1,0 +1,8 @@
+total 20
+drwxrwxr-x 5 ubuntu ubuntu 4096 abr 12 08:49 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 abr 12 08:29 ../
+-rw-rw-r-- 1 ubuntu ubuntu    0 abr 12 08:49 fichero2.txt
+drwxrwxr-x 8 ubuntu ubuntu 4096 abr 12 08:41 .git/
+drwxrwxr-x 3 ubuntu ubuntu 4096 abr 12 08:26 phpInvernadero/
+drwxrwxr-x 3 ubuntu ubuntu 4096 abr 12 08:30 phpMercadona/
+jue abr 12 08:52:58 CEST 2018
